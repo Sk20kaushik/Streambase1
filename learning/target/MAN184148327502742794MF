@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Package-Version: 0.0.1-SNAPSHOT
+TIBCO-EP-Fragment-Identifier: com.example.learning
+Package-Title: learning
+Archiver-Version: Plexus Archiver
+Built-By: KAUSHIK
+TIBCO-EP-Fragment-Type: ep-eventflow-fragment
+TIBCO-EP-Fragment-Format-Version: 2
+Build-Jdk: 1.8.0_212
+

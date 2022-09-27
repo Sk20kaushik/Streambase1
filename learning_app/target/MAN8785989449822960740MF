@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Package-Version: 0.0.1-SNAPSHOT
+TIBCO-EP-Fragment-Identifier: com.example.learning_app
+Package-Title: learning_app
+TIBCO-EP-Fragment-List: com.example-learning-0.0.1-SNAPSHOT-ep-eventfl
+ ow-fragment.zip 
+Archiver-Version: Plexus Archiver
+Built-By: KAUSHIK
+TIBCO-EP-Fragment-Type: ep-application
+TIBCO-EP-Fragment-Format-Version: 2
+Build-Jdk: 1.8.0_212
+
